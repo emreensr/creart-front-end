@@ -398,7 +398,7 @@
                 <NuxtLink href="projects" class="category">Focsel</NuxtLink>
                 <h2>
                   <NuxtLink href="project-details"
-                    >UI & UX / Web Tasarım</NuxtLink
+                    >Web Tasarım / E-Ticaret / Sosyal Medya Yönetimi</NuxtLink
                   >
                 </h2>
               </div>
@@ -416,7 +416,7 @@
                 <NuxtLink href="projects" class="category">Yıldız İhale</NuxtLink>
                 <h2>
                   <NuxtLink href="project-details"
-                    >UI & UX / Web Tasarım, Front-End, Back-End</NuxtLink
+                    >UI & UX / Web Tasarım / Front-End / Back-End</NuxtLink
                   >
                 </h2>
               </div>
@@ -426,17 +426,17 @@
             <div class="project-item">
               <div class="image wow fadeInUp delay-0-2s">
                 <img
-                  src="/assets/images/projects/project-grid3.jpg"
+                  src="/assets/images/projects/mst.png"
                   alt="Project Grid"
                 />
               </div>
               <div class="content wow fadeInUp delay-0-2s">
                 <NuxtLink href="projects" class="category"
-                  >Yıldız İhale</NuxtLink
+                  >MST Endüstriyel Sistemler</NuxtLink
                 >
                 <h2>
                   <NuxtLink href="project-details"
-                    >UI & UX / Web Tasarım</NuxtLink
+                    >Web Tasarım / Kurumsal Kimlik / Dijital Reklam Yönetimi</NuxtLink
                   >
                 </h2>
               </div>
@@ -446,15 +446,15 @@
             <div class="project-item">
               <div class="image wow fadeInUp delay-0-2s">
                 <img
-                  src="/assets/images/projects/project-grid4.jpg"
+                  src="/assets/images/projects/tandoor.png"
                   alt="Project Grid"
                 />
               </div>
               <div class="content wow fadeInUp delay-0-2s">
-                <NuxtLink href="projects" class="category">Cloud7</NuxtLink>
+                <NuxtLink href="projects" class="category">Tandoor Lavaş</NuxtLink>
                 <h2>
                   <NuxtLink href="project-details"
-                    >UI & UX / Web Tasarım</NuxtLink
+                    >UI / UX / Sosyal Medya Yönetimi / Video & Görsel Tasarım</NuxtLink
                   >
                 </h2>
               </div>
@@ -464,37 +464,37 @@
             <div class="project-item">
               <div class="image wow fadeInUp delay-0-2s">
                 <img
-                  src="/assets/images/projects/project-grid5.jpg"
-                  alt="Project Grid"
-                />
-              </div>
-              <div class="content wow fadeInUp delay-0-2s">
-                <NuxtLink href="projects" class="category"
-                  >Creative Work</NuxtLink
-                >
-                <h2>
-                  <NuxtLink href="project-details"
-                    >UI & UX / Web Tasarım</NuxtLink
-                  >
-                </h2>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="project-item">
-              <div class="image wow fadeInUp delay-0-2s">
-                <img
-                  src="/assets/images/projects/project-grid6.jpg"
+                  src="/assets/images/projects/asra-kimya.png"
                   alt="Project Grid"
                 />
               </div>
               <div class="content wow fadeInUp delay-0-2s">
                 <NuxtLink href="projects" class="category"
-                  >Digital Product</NuxtLink
+                  >Asra Kimya</NuxtLink
                 >
                 <h2>
                   <NuxtLink href="project-details"
-                    >UI & UX / Web Tasarım</NuxtLink
+                    >Web Tasarım / Dijital Reklam Yönetimi</NuxtLink
+                  >
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="project-item">
+              <div class="image wow fadeInUp delay-0-2s">
+                <img
+                  src="/assets/images/projects/noi.png"
+                  alt="Project Grid"
+                />
+              </div>
+              <div class="content wow fadeInUp delay-0-2s">
+                <NuxtLink href="projects" class="category"
+                  >Noi Bahçe</NuxtLink
+                >
+                <h2>
+                  <NuxtLink href="project-details"
+                    >UI & UX / Sosyal Medya Yönetimi / Dijital Reklam Yönetimi</NuxtLink
                   >
                 </h2>
               </div>
